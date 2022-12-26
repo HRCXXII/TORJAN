@@ -8,8 +8,8 @@ def usage():
     print "    \33[31;1mpython2 torjancyber.py (ip) (port) (jumlah)"
     print " "
     print " "
-    print "                  \33[1;33mThanks To : RoniYT"
-    print "\33[1;33mLink YT : https://m.youtube.com/channel/UCNHZbNTS69kwCYJ8jcLzUzQ/"
+    print "                  \33[1;33mThanks To : HRCXXII"
+    print "\33[1;33mLink YT : https://www.youtube.com/@hrcreator22"
     print "\33[0;36m=================================================="
 def flood(victim, vport, duration):
     # Subscribe Roni YT
